@@ -1,2 +1,7 @@
-# Power_BI-Projects
-Power BI Projects to showcase my skills like, powers of turning raw data into actionable insights, easy-to-understand storytelling with visualization &amp; much more.
+# Power BI Projects
+
+**Project 1 - Professionals Survey Analysis**
+
+**Project 2 - Credit Card Financial Analysis**
+
+**Project 3 - Ecommerce Sales Analysis**
